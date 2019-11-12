@@ -14,7 +14,7 @@ Before you start this challenge, please review these guidelines, recommendations
 
 ## Challenges
 
-There are two flavors of DevOps Challenge in this repo. All of the Challenge objectives for this version are listed below. If you'd rather try the version that includes Azure Boards integration, use (this)[./boards-integration.md] version instead. The following list includes all of the DevOps Challenge objectives for this version: 
+There are two flavors of DevOps Challenge in this repo. All of the Challenge objectives for this version are listed below. If you'd rather try the version that includes Azure Boards integration, use (these instructions)[boards-integration.md] version instead. The following list includes all of the DevOps Challenge objectives for this version: 
 
 1. Prepare an Azure subscription
    1. Create a resource group for the challenge in an existing subscription
