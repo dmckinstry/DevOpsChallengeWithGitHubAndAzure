@@ -7,3 +7,4 @@ The following issues are present in the Boards version of the challenge. Please 
 
 1. The tasks are in reverse order. When referencing stories on the Kanban board, start at the bottom of the list.
 1. The source code link is wrong...  Please use this link: [https://raw.githubusercontent.com/dmckinstry/DevOpsChallengeWithGitHubAndAzure/master/assets/contoso-air-source.zip](https://raw.githubusercontent.com/dmckinstry/DevOpsChallengeWithGitHubAndAzure/master/assets/contoso-air-source.zip) 
+1. Many of the security tasks are now on by default, so review them rather than enabling the services.
