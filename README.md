@@ -9,3 +9,4 @@ The following issues are present in the Boards version of the challenge. Please 
 1. The Azure DevOps integration only applies to Azure Boards - you don't need to setup Azure Pipelines.
 1. The source code link is wrong...  Please use this link: [https://raw.githubusercontent.com/dmckinstry/DevOpsChallengeWithGitHubAndAzure/master/assets/contoso-air-source.zip](https://raw.githubusercontent.com/dmckinstry/DevOpsChallengeWithGitHubAndAzure/master/assets/contoso-air-source.zip) 
 1. Many of the security tasks are now on by default, so review them rather than enabling the services.
+1. For deployment workflows, temporarily include the branch you're working in as a trigger to enable testing.
